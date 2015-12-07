@@ -1,6 +1,8 @@
 # Slidoon
 イカすSplatoonスライドテーマ
 
+![Preview](preview.png)
+
 ## What's this
 [実践イカパケット解析](http://www.slideshare.net/mzyy94/packetoon)で用いたスライドのテーマを一部修正したものです。
 修正点は、
