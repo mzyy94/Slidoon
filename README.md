@@ -15,6 +15,13 @@
 
 ちなみに**スライドゥーーン**と読みます。
 
+## Usage
+OS X の Keynote 向けです。
+slidoon.kth を開くと Keynote が立ち上がるので、テーマセレクタに追加するなり新規スライドを作成するなりでこのテーマを適用してください。
+レイアウトを崩さずに利用するためには、システムにNoto Sans CJK JPがインストールされている必要があります。
+よりイカすスライドを作成するためには、Splatoonっぽい日本語のフォントの[イカモドキ](http://aramugi.com/?page_id=807) を、
+英語のフォントの [Project Paintball](http://fizzystack.web.fc2.com/paintball-ja.html) を利用するといいでしょう。
+また、Fontworks社のフォントライセンスをお持ちでしたら、[ロウディ EP](http://fontworks.co.jp/font/catch/rowdy/EB.html)のご利用がオススメです。
 
 ## Contents
 内容物一覧です。
